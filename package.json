@@ -1,0 +1,15 @@
+{
+  "name": "simple-weather",
+  "version": "1.0.0",
+  "description": "simple weather tool in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "darkweather"
+  ],
+  "author": "zachary bowhay",
+  "license": "ISC"
+}
