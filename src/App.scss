@@ -1,0 +1,22 @@
+@import './styles.scss';
+
+.red-border {
+    border: 2px solid $sizzling-red;
+}
+
+.yellow-border {
+    border: 1px solid $xanthic;
+}
+
+.empty-space {
+    border: 2px solid $blue-yonder;
+}
+
+.no-border {
+    border: none !important;
+}
+
+.full-height {
+    height: 100vh;
+}
+

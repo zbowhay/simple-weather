@@ -1,0 +1,5 @@
+
+secret*
+node_modules/
+src/**/*.js
+conf/**/*.js

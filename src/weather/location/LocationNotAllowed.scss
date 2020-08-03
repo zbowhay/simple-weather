@@ -1,0 +1,17 @@
+@import '../../styles.scss';
+
+.locationNotAllowedContainer {
+    .MuiGrid-item {
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .MuiGrid-item:last-child {
+        padding-bottom: 10px;
+    }
+}
+
+#lna-sad {
+    color: $xanthic;
+}
